@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="a9aAtZmji2bmH36xNlDLyRaHz7WrsL0EgvCe8rId5iI" />
-
 StealthGPT helps you stay focused and distraction-free by disguising AI chat sites as neutral productivity pages.
 With one simple toggle or hotkey, your active chat instantly transforms into a calm, realistic workspace like a document, inbox, or calendar.
 
