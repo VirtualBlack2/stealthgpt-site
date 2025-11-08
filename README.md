@@ -17,3 +17,11 @@ Features
 
 Why use it?
 Perfect for students, professionals, and creators who want to keep their workspace tidy, or who simply prefer a minimal environment while chatting with AI tools.
+
+## 🌐 Official Pages
+
+- [🛡 Privacy Policy](https://virtualblack2.github.io/stealthgpt-site/privacy)
+- [📩 Support & Contact](https://virtualblack2.github.io/stealthgpt-site/support)
+
+You can also reach out by email: [BBbrownstudent1400@gmail.com])
+
