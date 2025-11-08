@@ -10,5 +10,5 @@ StealthGPT is a local, client-side Chrome extension. We do **not** collect, stor
 - **Storage:** Chrome sync/local storage is used solely for your preferences (e.g., which skin and sites you enabled).
 - **Third parties:** None.
 
-If you have questions or requests, contact: **yourname+stealthgpt@gmail.com**.
+If you have questions or requests, contact: **BBbrownstudent1400@gmail.com**.
 
