@@ -7,7 +7,7 @@
 
 **Contact**
 - Email: BBbrownstudent1400@gmail.com
-- Issues: https://github.com/<your-username>/stealthgpt-site/issues (open a bug or request)
+- Issues: BBbrownstudent1400@gmail.com
 
 **What to include**
 - Browser & version
